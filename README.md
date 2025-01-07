@@ -80,5 +80,5 @@ This project focuses on:
 ---
 
 ## **Acknowledgments**
-- **MYDFIR Tutorials**: Special thanks to Steven for his comprehensive Active Directory and security monitoring labs.
+- **MYDFIR Tutorials**: Special thanks to Steven for his comprehensive Active Directory and security monitoring labs. [Learn more here](https://www.youtube.com/watch?v=5OessbOgyEo&t=87s).
 - **Atomic Red Team**: For their open-source library of adversary simulation techniques. [Learn more here](https://github.com/redcanaryco/atomic-red-team).
