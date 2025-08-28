@@ -1,4 +1,4 @@
-# Advanced Active Directory Lab with Splunk and Atomic Red Team
+# Advanced AD Lab with Splunk & Atomic Red Team
 
 ---
 
